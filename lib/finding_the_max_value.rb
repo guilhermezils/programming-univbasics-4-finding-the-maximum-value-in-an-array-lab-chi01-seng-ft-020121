@@ -1,3 +1,3 @@
 def find_max_value(array)
-   array.index (count)
+   array.index (6)
 end
